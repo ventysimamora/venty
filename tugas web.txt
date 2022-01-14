@@ -1,1 +1,11 @@
 kurang negerti membuat halamat website
+bagian pemograman objek (java) yang di pahami dan tidak di pahami,example
+
+bagian pemograman dasar yang belum saya fahami
+    *perulangan (for,foreach,while, do-wile)
+    *struktur kontrol keputusan (if..eles, eles if, eles, oprator tenary,swetch case
+    *array
+bagian pemograman opp yang belum saya fahami 
+    *polymorphism
+    *dependency injection
+    
